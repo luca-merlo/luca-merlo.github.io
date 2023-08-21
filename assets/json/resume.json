@@ -46,6 +46,21 @@
       "courses": ""
     }
   ],
+  "interests": [
+    {
+      "name": "Methods",
+      "keywords": [
+        "Quantile regression, multivariate quantiles, M-quantiles",
+        "Latent variable models, finite mixture models, graphical models"
+      ]
+    },
+    {
+      "name": "Applications",
+      "keywords": [
+        "Applications to longitudinal, time series and correlated data"
+      ]
+    }
+  ],
   "awards": [
     {
       "title": "Best Young Contribution - SIS 2023",
@@ -75,21 +90,6 @@
     {
       "language": "French",
       "fluency": "Fluent"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Methods",
-      "keywords": [
-        "Quantile regression, multivariate quantiles, M-quantiles",
-        "Latent variable models, finite mixture models, graphical models"
-      ]
-    },
-    {
-      "name": "Applications",
-      "keywords": [
-        "Applications to longitudinal, time series and correlated data"
-      ]
     }
   ],
   "references": [],
