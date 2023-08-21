@@ -9,7 +9,7 @@ profile:
   image: DSCN4231.JPG
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Department of Human Sciences</p>
+    <p style="font-size: 12px">Department of Human Sciences</p>
     <p>European University of Rome</p>
     <p>Rome (RM), Italy</p>
 
