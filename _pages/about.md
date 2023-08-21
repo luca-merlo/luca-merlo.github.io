@@ -9,9 +9,9 @@ profile:
   image: DSCN4231.JPG
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Room C108</p>
-    <p>190 Via degli Aldobrandeschi</p>
-    <p>Rome (RM), 00163, Italy</p>
+    <p>Department of Human Sciences</p>
+    <p>European University of Rome</p>
+    <p>Rome (RM), Italy</p>
 
 
 news: true  # includes a list of news items
