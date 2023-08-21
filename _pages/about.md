@@ -20,8 +20,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I obtained my PhD in Methodological Statistics at the Sapienza University of Rome (Italy) with a thesis on quantile regression models for the analysis of multivariate data. I actively collaborate with national and international institutions, including the Harvard T.H. Chan School of Public Health (US), the University of Southampton (United Kingdom) and the University of Pisa (Italy). As of September 2022, I am a researcher in statistics at the European University of Rome (Italy). My research interests lie in quantile regression, latent variable models, finite mixture models with applications to longitudinal, time series and correlated data.
