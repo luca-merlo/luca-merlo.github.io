@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-09-22
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+<a href="[https://www.w3schools.com](https://web.uniroma1.it/memotef/1st-workshop-quantile-regression-rome)">1st Workshop on quantile regression</a> at Sapienza University of Rome.
