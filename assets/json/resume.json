@@ -77,7 +77,14 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Board Games",
+      "keywords": [
+        "Terraforming Mars"
+      ]
+    }
+  ],
   "references": [],
   "projects": []
 }
