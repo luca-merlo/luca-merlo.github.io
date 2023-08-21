@@ -79,9 +79,16 @@
   ],
   "interests": [
     {
-      "name": "Board Games",
+      "name": "Methods",
       "keywords": [
-        "Terraforming Mars"
+        "Quantile regression, multivariate quantiles, M-quantiles",
+        "Latent variable models, finite mixture models, graphical models"
+      ]
+    },
+    {
+      "name": "Applications",
+      "keywords": [
+        "Applications to longitudinal, time series and correlated data"
       ]
     }
   ],
