@@ -43,7 +43,9 @@
       "startDate": "2018-11-01",
       "endDate": "2022-02-22",
       "score": "Cum Laude",
-      "courses": ""
+      "courses": [
+        "Thesis title: 'On quantile regression models for multivariate data'. Supervisor: Prof. Lea Petrella."
+      ]
     }
   ],
   "interests": [
