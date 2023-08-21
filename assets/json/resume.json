@@ -39,7 +39,7 @@
       "institution": "Sapienza University of Rome, Rome, Italy",
       "url": "https://www.uniroma1.it/en/pagina-strutturale/home/",
       "area": "Statistics",
-      "studyType": "PhD",
+      "studyType": "PhD in Statistical Sciences",
       "startDate": "2018-11-01",
       "endDate": "2022-22-02",
       "score": "Cum Laude",
@@ -51,13 +51,16 @@
       "name": "Methods",
       "keywords": [
         "Quantile regression, multivariate quantiles, M-quantiles",
-        "Latent variable models, finite mixture models, graphical models"
+        "Latent variable models, finite mixture models", 
+        "Graphical models"
       ]
     },
     {
       "name": "Applications",
       "keywords": [
-        "Applications to longitudinal, time series and correlated data"
+        "Longitudinal data", 
+        "Time series",
+        "Correlated data"
       ]
     }
   ],
