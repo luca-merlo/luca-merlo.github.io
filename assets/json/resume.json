@@ -42,16 +42,22 @@
       "studyType": "PhD",
       "startDate": "2018-11-01",
       "endDate": "2022-22-02",
-      "score": "",
+      "score": "Cum Laude",
       "courses": ""
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Young Contribution - SIS 2023",
+      "date": "2023-06-20",
+      "awarder": "Italian Statistical Society",
+      "summary": "Best Young Contribution Award at the SIS 2023 conference for the work 'Quantile-based graphical models for continuous and discrete variables' (joint with Petrella, L. and Geraci, M.)."
+    },
+    {
+      "title": "Best PhD Thesis Award - SIS 2023",
+      "date": "2023-06-07",
+      "awarder": "Italian Statistical Society",
+      "summary": "Honorable Mention for the 2023 Best PhD Thesis Award in Statistics for the dissertation 'On quantile regression models for multivariate data'."
     }
   ],
   "certificates": [],
@@ -64,6 +70,10 @@
     },
     {
       "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
       "fluency": "Fluent"
     }
   ],
