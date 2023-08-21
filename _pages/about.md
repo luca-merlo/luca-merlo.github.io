@@ -2,19 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Researcher (RTDA) in Statistics at the <a href='https://www.universitaeuropeadiroma.it/en/'>European University of Rome</a>
 
 profile:
   align: right
   image: DSCN4231.JPG
   image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room C108</p>
+    <p>190 Via degli Aldobrandeschi</p>
+    <p>Rome (RM), 00163, Italy</p>
+
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
