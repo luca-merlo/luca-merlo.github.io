@@ -33,7 +33,15 @@
       "highlights": ""
     }
   ],
-  "Interests": [Quantile regression, multivariate quantiles, M-quantiles],
+  "Interests": [
+    {
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }
+  ],
   "volunteer": [],
   "Education": [
     {
