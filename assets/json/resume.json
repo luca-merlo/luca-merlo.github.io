@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "European University of Rome",
-      "position": "Researcher (RTDA) in Statistics",
+      "position": "Researcher in Statistics",
       "url": "https://www.universitaeuropeadiroma.it/en/",
       "startDate": "2022-08-01",
       "endDate": "",
@@ -41,8 +41,9 @@
       "area": "Statistics",
       "studyType": "PhD in Statistical Sciences",
       "startDate": "2018-11-01",
-      "endDate": "2022-22-02",
+      "endDate": "2022-02-22",
       "score": "Cum Laude",
+      "summary": "supervisor",
       "courses": ""
     }
   ],
