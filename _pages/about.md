@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Researcher (RTDA) in Statistics at the <a href='https://www.universitaeuropeadiroma.it/en/'>European University of Rome</a>
 
