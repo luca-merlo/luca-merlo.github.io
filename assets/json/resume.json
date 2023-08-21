@@ -1,5 +1,5 @@
 {
-  "Basics": {
+  "basics": {
     "name": "Luca Merlo",
     "label": "Researcher",
     "image": "",
@@ -22,10 +22,10 @@
       }
     ]
   },
-  "Work": [
+  "work": [
     {
       "name": "European University of Rome",
-      "position": "Researcher in Statistics",
+      "position": "Researcher (RTDA) in Statistics",
       "url": "https://www.universitaeuropeadiroma.it/en/",
       "startDate": "2022-08-01",
       "endDate": "",
@@ -34,19 +34,19 @@
     }
   ],
   "volunteer": [],
-  "Education": [
+  "education": [
     {
       "institution": "Sapienza University of Rome, Rome, Italy",
       "url": "https://www.uniroma1.it/en/pagina-strutturale/home/",
       "area": "Statistics",
-      "studyType": "PhD in Methodological Statistics",
+      "studyType": "PhD",
       "startDate": "2018-11-01",
       "endDate": "2022-22-02",
       "score": "Cum Laude",
       "courses": ""
     }
   ],
-  "Awards": [
+  "awards": [
     {
       "title": "Best Young Contribution - SIS 2023",
       "date": "2023-06-20",
@@ -63,7 +63,7 @@
   "certificates": [],
   "publications": [],
   "skills": [],
-  "Languages": [
+  "languages": [
     {
       "language": "Italian",
       "fluency": "Native speaker"
