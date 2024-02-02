@@ -55,7 +55,8 @@
       "keywords": [
         "Quantile regression, multivariate quantiles, M-quantiles",
         "Latent variable models, finite mixture models", 
-        "Graphical models"
+        "Graphical models",
+        "Causal inference"
       ]
     },
     {
@@ -63,7 +64,8 @@
       "keywords": [
         "Longitudinal data", 
         "Time series",
-        "Correlated data"
+        "Correlated data",
+        "Environmental issues"
       ]
     }
   ],
