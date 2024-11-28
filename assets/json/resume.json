@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Luca Merlo",
-    "label": "Researcher",
+    "label": "Associate Professor",
     "image": "",
-    "email": "luca.merlo@unier.it",
+    "email": "l.merlo@unilink.it",
     "phone": "",
     "url": "https://www.universitaeuropeadiroma.it/transizione-digitale/docenti/luca-merlo/",
     "lab page": "<a href='https://quantileregressionlab.github.io/'>quantileregressionlab.github.io</a>",
     "ORCID": "<a href='https://orcid.org/0000-0001-5267-5390'>0000-0001-5267-5390</a>",
     "summary": "",
     "location": {
-      "address": "Via degli Aldobrandeschi, 190",
-      "postalCode": "RM 00163",
+      "address": "Via del Casale di San Pio V, 44",
+      "postalCode": "RM 00165",
       "city": "Rome",
       "countryCode": "IT",
       "region": ""
@@ -27,10 +27,19 @@
   "work": [
     {
       "name": "European University of Rome",
+      "position": "Associate Professor of Statistics",
+      "url": "https://www.unilink.it/en/?gid=424&cHash=36bf452e86154b4dbf6c48e3fdd8c759",
+      "startDate": "2024-11-19",
+      "endDate": "",
+      "summary": "",
+      "highlights": ""
+    },
+    {
+      "name": "European University of Rome",
       "position": "Researcher (RTDA) in Statistics",
       "url": "https://www.universitaeuropeadiroma.it/en/",
       "startDate": "2022-08-01",
-      "endDate": "",
+      "endDate": "2024-11-18",
       "summary": "",
       "highlights": ""
     },
