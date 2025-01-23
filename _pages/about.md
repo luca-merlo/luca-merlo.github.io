@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p style="font-size: 13px">Department of Human Sciences</p>
-    <p style="font-size: 13px">European University of Rome</p>
+    <p style="font-size: 13px">Link Campus University</p>
     <p style="font-size: 13px">Rome (RM), Italy</p>
 
 
