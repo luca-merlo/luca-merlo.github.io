@@ -4,3 +4,6 @@ github_users:
 github_repos:
   - luca-merlo/luca-merlo.github.io
   - QuantileRegressionLab/NPN-HSMM
+  - QuantileRegressionLab/QMGM
+  - NSAPH-Projects/pm25-upward_mobility-causalgps
+  - NSAPH-Projects/pm25-expenditure-quantile_causalgps
