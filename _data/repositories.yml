@@ -6,4 +6,4 @@ github_repos:
   - QuantileRegressionLab/NPN-HSMM
   - QuantileRegressionLab/QMGM
   - NSAPH-Projects/pm25-upward_mobility-causalgps
-  - NSAPH-Projects/pm25-expenditure-quantile_causalgps
+#  - NSAPH-Projects/pm25-expenditure-quantile_causalgps
